@@ -8847,11 +8847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Name_List\\Name_List\\Name_List.csproj",
-      "projectName": "Name_List",
-      "projectPath": "E:\\Name_List\\Name_List\\Name_List.csproj",
+      "projectUniqueName": "E:\\Name_List\\UserManagement\\UserManagement.csproj",
+      "projectName": "UserManagement",
+      "projectPath": "E:\\Name_List\\UserManagement\\UserManagement.csproj",
       "packagesPath": "C:\\Users\\SW - ISYS322\\.nuget\\packages\\",
-      "outputPath": "E:\\Name_List\\Name_List\\obj\\",
+      "outputPath": "E:\\Name_List\\UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SW - ISYS322\\AppData\\Roaming\\NuGet\\NuGet.Config",
