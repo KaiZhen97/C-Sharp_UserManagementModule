@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Name_List\\UserManagement\\UserManagement.csproj": {}
+    "E:\\C#_Project\\UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "E:\\Name_List\\UserManagement\\UserManagement.csproj": {
+    "E:\\C#_Project\\UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Name_List\\UserManagement\\UserManagement.csproj",
+        "projectUniqueName": "E:\\C#_Project\\UserManagement\\UserManagement.csproj",
         "projectName": "UserManagement",
-        "projectPath": "E:\\Name_List\\UserManagement\\UserManagement.csproj",
+        "projectPath": "E:\\C#_Project\\UserManagement\\UserManagement.csproj",
         "packagesPath": "C:\\Users\\SW - ISYS322\\.nuget\\packages\\",
-        "outputPath": "E:\\Name_List\\UserManagement\\obj\\",
+        "outputPath": "E:\\C#_Project\\UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SW - ISYS322\\AppData\\Roaming\\NuGet\\NuGet.Config",
